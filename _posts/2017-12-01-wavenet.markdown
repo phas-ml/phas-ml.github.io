@@ -1,20 +1,33 @@
 ---
 layout: post
 title:  "WAVENET: a generative model for raw audio"
-date:   2018-08-16 00:57:56 +0100
-categories: jekyll update
+date:   2017-12-01
+categories: paper
 ---
-This was dedicated to the discussion of the WAVENET
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+At this reading group we discussed the generative method for the audio generation. It is appleacable to our field because it can be seen as a method for the 
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+# Abstract
+
+> This paper introduces WaveNet, a deep neural network for generating raw audio
+> waveforms. The model is fully probabilistic and autoregressive, with the predictive
+> distribution for each audio sample conditioned on all previous ones; nonetheless
+> we show that it can be efficiently trained on data with tens of thousands of
+> samples per second of audio. When applied to text-to-speech, it yields state-ofthe-
+> art performance, with human listeners rating it as significantly more natural
+> sounding than the best parametric and concatenative systems for both English and
+> Mandarin. A single WaveNet can capture the characteristics of many different
+> speakers with equal fidelity, and can switch between them by conditioning on the
+> speaker identity. When trained to model music, we find that it generates novel and
+> often highly realistic musical fragments. We also show that it can be employed as
+> a discriminative model, returning promising results for phoneme recognition.
+
+
+Here is the link to the [paper] and a [blog-post] that provides the description. 
+Just before the meeting of the Reading group the newer paper was released that 
+has computationally more efficient algorithm [second-paper]. 
+
+
+[paper]: https://arxiv.org/pdf/1609.03499.pdf
+[second-paper]:   https://arxiv.org/abs/1711.10433
+[blog-post]: https://deepmind.com/blog/wavenet-generative-model-raw-audio/
