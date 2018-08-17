@@ -5,7 +5,7 @@ date:   2017-12-01
 categories: paper
 ---
 
-At this reading group we discussed the generative method for the audio generation. It is appleacable to our field because it can be seen as a method for the 
+At this reading group we discussed the generative method for the audio generation which can be also applied to any regression or time series analysis.
 
 # Abstract
 
@@ -23,11 +23,11 @@ At this reading group we discussed the generative method for the audio generatio
 > a discriminative model, returning promising results for phoneme recognition.
 
 
-Here is the link to the [paper] and a [blog-post] that provides the description. 
+Here is the link to the [paper] and a [blog-post] that provides the simplified description description. 
 Just before the meeting of the Reading group the newer paper was released that 
-has computationally more efficient algorithm [second-paper]. 
+describes a computationally more efficient algorithm [second paper]. 
 
 
 [paper]: https://arxiv.org/pdf/1609.03499.pdf
-[second-paper]:   https://arxiv.org/abs/1711.10433
+[second paper]:   https://arxiv.org/abs/1711.10433
 [blog-post]: https://deepmind.com/blog/wavenet-generative-model-raw-audio/
