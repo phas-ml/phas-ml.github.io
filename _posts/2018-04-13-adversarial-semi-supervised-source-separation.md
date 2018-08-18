@@ -14,4 +14,4 @@ This paper proposes a semi-supervised variation to the existing audio source sep
 Link to the [paper] and the provided [implementation].
 
 [paper]: https://arxiv.org/abs/1711.00048
-[implementation]: https://deepmind.com/blog/wavenet-generative-model-raw-audio/
+[implementation]: https://github.com/f90/AdversarialAudioSeparation
