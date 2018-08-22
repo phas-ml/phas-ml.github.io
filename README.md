@@ -1,4 +1,4 @@
-# phas-ml.github.io
+# [phas-ml.github.io](phas-ml.github.io)
 This is the repository to keep track of the papers discussed during the ML reading group
 
 ## Posts
