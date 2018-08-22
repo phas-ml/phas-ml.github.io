@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Alpha Go Zero: Mastering the game of Go without human knowledge"
-date:   2017-12-01
+date:   2017-12-15
 categories: paper
 ---
 
