@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: ML Reading group
-description: This is dedicated to keep track of the discussions in the ML reading group of the School of Physics and Astronomy, University of Glasgow
+description: This site is dedicated to keeping track of the discussions in the ML reading group of the School of Physics and Astronomy, University of Glasgow
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
@@ -44,7 +44,7 @@ plugins:
 tipue_search:
   include:
     pages: true
-    collections: [apples, oranges]
+    collections: [posts]
 
 # Excluding from serach index
 # To exclude singles pages add this line to a page:
@@ -53,7 +53,7 @@ tipue_search:
 # Exlcude multiple:
 tipue_search:
   exclude:
-    files: [search.html, _apples/gragg.md, _oranges/valencia.md]
+    files: [search.html]
     tags: [tag1, tag2]
     categories: [category1, category2]
 
