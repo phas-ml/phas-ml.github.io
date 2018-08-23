@@ -37,3 +37,23 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Options for Tipue Search
+#
+# Including pages and collections
+tipue_search:
+  include:
+    pages: true
+    collections: [apples, oranges]
+
+# Excluding from serach index
+# To exclude singles pages add this line to a page:
+# exclude_from_search: true
+# 
+# Exlcude multiple:
+tipue_search:
+  exclude:
+    files: [search.html, _apples/gragg.md, _oranges/valencia.md]
+    tags: [tag1, tag2]
+    categories: [category1, category2]
+
