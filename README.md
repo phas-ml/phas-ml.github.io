@@ -13,7 +13,7 @@ where the date is the date of the meeting when the paper was or will be discusse
 
 ### Adding a post
 
-To create a new post simple create a new file according to the naming format and add it in the `_posts` directory. 
+To create a new post simply create a new file according to the naming format and add it in the `_posts` directory. 
 
 The first few lines of the file provided the necessary infomation to make the page and should look like this:
 ```
