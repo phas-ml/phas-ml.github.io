@@ -17,4 +17,22 @@
   <script src="{{ "/assets/tipuesearch/tipuesearch_set.js" | relative_url }}"></script>
   <script src="{{ "/assets/tipuesearch/tipuesearch.min.js" | relative_url }}"></script>
   {% endif -%}
+
+  <!-- Full calendar -->
+  <link rel='stylesheet' href='assets/fullcalendar/fullcalendar.css' />
+  <script src='assets/jquery/jquery.min.js'></script>
+  <script src='assets/moment/moment.min.js'></script>
+  <script src='assets/fullcalendar/fullcalendar.js'></script>
+
+    <script>
+      $(function() {
+
+        // page is now ready, initialize the calendar...
+
+        $('#calendar').fullCalendar({
+        // put your options and callbacks here
+        })
+      });
+    </script>
+
 </head>
