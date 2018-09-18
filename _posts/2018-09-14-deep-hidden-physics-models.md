@@ -15,5 +15,5 @@ We dicussed a deep learing approach to learning non-linear partial differential 
 Here is the link to the [paper] and the included [git repo].
 
 
-[paper]: https://arxiv.org/pdf/1609.03499.pdf
+[paper]: https://arxiv.org/abs/1801.06637
 [git repo]: https://github.com/maziarraissi/DeepHPMs
