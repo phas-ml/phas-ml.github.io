@@ -29,6 +29,6 @@ This paper presents the non-original, but more widely used version of Long-Short
 
 Link to the [paper][lstm].
 
-[previous paper]: _posts/2018-03-09-generating-wikipedia.md
-[wavenet-meeting]: _posts/2017-12-01-wavenet.markdown
+[previous paper]: https://phas-ml.github.io/paper/2018/03/09/generating-wikipedia.html
+[wavenet-meeting]: https://phas-ml.github.io/paper/2017/12/01/wavenet.html
 [lstm]: http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.55.5709
