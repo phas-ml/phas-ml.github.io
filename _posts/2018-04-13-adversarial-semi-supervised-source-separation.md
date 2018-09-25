@@ -5,7 +5,7 @@ date:   2018-04-13
 categories: paper
 ---
 
-This paper proposes a semi-supervised variation to the existing audio source seperation techniques. This change allows for less realistic simulated data to be used as well. We discussed the possible applications of these ideas to source seperation in LISA and aLISA.
+This paper proposes a semi-supervised variation to the existing audio source seperation techniques. This change allows for less realistic simulated data to be used as well. We discussed the possible applications of these ideas to source seperation in LISA.
 
 # Abstract
 
