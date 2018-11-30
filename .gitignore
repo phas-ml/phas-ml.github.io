@@ -1,3 +1,10 @@
 _site
 .sass-cache
 .jekyll-metadata
+
+# data files
+*.tar.*
+*.tar.gz
+
+# notebooks for notes
+notebooks/
