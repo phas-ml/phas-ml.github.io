@@ -1,4 +1,4 @@
-blog ---
+---
 layout: page
 title: Suggested papers
 permalink: /suggested-papers
