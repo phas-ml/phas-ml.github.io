@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A Docker Tutorial"
-date:   2019-05-08
+date:   2019-04-24
 categories: tutorial
 speaker: Adam Thornton
 ---
