@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "GANSynth: Adversarial Neural Audio Synthesis"
+title:  "Large Scale Curiosity"
 date:   2019-02-15
 categories: paper
 speaker: Hunter Gabbard
