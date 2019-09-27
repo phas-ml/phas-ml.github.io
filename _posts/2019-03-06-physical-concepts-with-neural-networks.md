@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Discovering physical concepts with neural networks"
-date:   2019-05-08
+date:   2019-03-06
 categories: paper
 speaker: Fergus Hayes
 ---
