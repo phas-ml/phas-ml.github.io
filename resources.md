@@ -31,4 +31,4 @@ A collection of juypter notebooks that serve as examples for beginners of using 
 
 NOTE: This is very much still a work in progress and in the early stages of development. Any feedback/contributions are much appreciated.
 
-[intro2ml]: https://github.com/mj-will/intro2ml
+[intro2ml]: https://mj-will.github.io/intro2ml/
