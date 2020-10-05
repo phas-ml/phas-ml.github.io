@@ -5,6 +5,3 @@ _site
 # data files
 *.tar.*
 *.tar.gz
-
-# notebooks for notes
-notebooks/
