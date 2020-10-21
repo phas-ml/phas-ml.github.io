@@ -51,3 +51,9 @@ A useful tool to help understand the basic concept on a neural work. The user ca
 
 
 [intro2ml]: https://mj-will.github.io/intro2ml/
+
+# Tutorials
+
+* Introduction to Principal Component Analysis:
+    * [Five minute overview](https://www.youtube.com/watch?v=HMOI_lkzW08)
+    * [Step-by-step explanation](https://www.youtube.com/watch?v=FgakZw6K1QQ)
