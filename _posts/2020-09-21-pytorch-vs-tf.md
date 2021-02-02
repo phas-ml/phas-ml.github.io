@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "PyTorch vs Tensorflow, which should I use?"
-date:   2020-02-25
+date:   2020-09-21
 categories: tutorial
 speaker: Michael Williams
 ---
