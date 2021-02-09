@@ -6,5 +6,5 @@ categories: tutorial
 speaker: Michael Williams
 ---
 
-At this meeting we had a tutorial introducing normalising flows with two practical examples. The notebook is availale [here](
+At this meeting we had a tutorial introducing normalising flows with two practical examples. The notebook is available [here](
 https://colab.research.google.com/github/phas-ml/phas-ml.github.io/blob/master/notebooks/2021_02_10_normalising_flows_tutorial.ipynb).
