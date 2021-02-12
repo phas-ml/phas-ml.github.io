@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: ML Reading group
-description: This site is dedicated to keeping track of the discussions in the ML reading group of the School of Physics and Astronomy, University of Glasgow
+title: PHAS-ML Reading group
+description: This site is dedicated to keeping track of the discussions in the Physics & Astronomy Machine Learning reading group, University of Glasgow.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
