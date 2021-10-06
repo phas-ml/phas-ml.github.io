@@ -10,4 +10,4 @@ At this meeting we ran a tutorial covering the basics of Generative Adversarial 
 
 <center>
 <a href="https://colab.research.google.com/github/phas-ml/phas-ml.github.io/blob/master/notebooks/2021_09_30_dcgan_tutorial.ipynb" title="GAN Tutorial"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a>
-</center
+</center>
