@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Cold Diffusion: Inverting Arbitrary Image Transforms Without Noise"
+date:   2022-09-20
+categories: paper
+speaker: Naren Nagarajan 
+---
+
+## Abstract
+
+> Standard diffusion models involve an image transform -- adding Gaussian noise -- and an image restoration operator that inverts this degradation. We observe that the generative behavior of diffusion models is not strongly dependent on the choice of image degradation, and in fact an entire family of generative models can be constructed by varying this choice. Even when using completely deterministic degradations (e.g., blur, masking, and more), the training and test-time update rules that underlie diffusion models can be easily generalized to create generative models. The success of these fully deterministic models calls into question the community's understanding of diffusion models, which relies on noise in either gradient Langevin dynamics or variational inference, and paves the way for generalized diffusion models that invert arbitrary processes. Our code is available at [this https URL](https://arxiv.org/abs/2208.09392).
+
+## Links
+
+* Cold Diffusion: Inverting Arbitrary Image Transforms Without Noise - [arXiv](https://arxiv.org/abs/2208.09392)
+* Official implementation - [GitHub](https://github.com/arpitbansal297/Cold-Diffusion-Models)
